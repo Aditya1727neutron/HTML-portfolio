@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Devloper Portfolio</title>
+
+</head>
+
+<body>
+    <h1>Aditya Yadav</h1>
+    <ol> <a href="/about">About</a></ol>
+    <ol> <a href="/contact">Contact</a></ol>
+    <ol> <a href="/projects">Projects</a></ol>
+
+    <h2>Welcome to my portfolio</h2>
+    Hello! I am a web devlopment student. This is my personal web devlopment website.
+    <h2>About Me</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkkTGRyI1fhM1ricbGHrqNn0Ddo8_zKBQkA&s" alt="Profile picture"
+        height="234">
+    <h2>My Projects</h2>
+
+    <ul><b>Portfolio website</b>: <a href=http://127.0.0.1:3000/exemplarPortfolio.html>Portfolio</a> </ul>
+    <ul><b>Medium clone</b>: <a href=http://127.0.0.1:3000/zomatoCLONE.html>Zomato clone</a></ul>
+    <ul><b>Birthday card</b>: <a href=http://127.0.0.1:3000/birthdaycard.html>Birthday card for pratik sir</a></ul>
+    <ul><b>User form</b>: <a href=http://127.0.0.1:3000/userform.html>form</a></ul>
+    <h2>Technical Skills</h2>
+    <table border="5">
+        <thead>
+            <tr>
+                <th>Skills</th>
+                <th>level</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML</td>
+                <td>Intermediate</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Beginner</td>
+            </tr>
+            <tr>
+                <td>Javascript</td>
+                <td>Learning</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
