@@ -21,10 +21,10 @@
         height="234">
     <h2>My Projects</h2>
 
-    <ul><b>Portfolio website</b>: <a href=http://127.0.0.1:3000/exemplarPortfolio.html>Portfolio</a> </ul>
-    <ul><b>Medium clone</b>: <a href=http://127.0.0.1:3000/zomatoCLONE.html>Zomato clone</a></ul>
-    <ul><b>Birthday card</b>: <a href=http://127.0.0.1:3000/birthdaycard.html>Birthday card for pratik sir</a></ul>
-    <ul><b>User form</b>: <a href=http://127.0.0.1:3000/userform.html>form</a></ul>
+    <ul><b>Portfolio website</b>: <a href=http://127.0.0.1:3000/exemplarPortfolio.html target="_blank">Portfolio</a> </ul>
+    <ul><b>Medium clone</b>: <a href=http://127.0.0.1:3000/zomatoCLONE.html target="_blank">Zomato clone</a></ul>
+    <ul><b>Birthday card</b>: <a href=http://127.0.0.1:3000/birthdaycard.html target="_blank">Birthday card for pratik sir</a></ul>
+    <ul><b>User form</b>: <a href=http://127.0.0.1:3000/userform.html target="_blank">form</a></ul>
     <h2>Technical Skills</h2>
     <table border="5">
         <thead>
